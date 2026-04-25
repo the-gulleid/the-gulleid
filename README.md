@@ -12,16 +12,23 @@ I build modern web applications, mobile apps, and scalable APIs.
 I'm a passionate developer focused on building efficient, scalable, and user-friendly applications.
 I enjoy solving real-world problems through code and continuously improving my skills across both frontend and backend technologies.
 
-Also i'm Certified React Developer
+Also I'M Certified React Developer
 
 ---
 
 ## 🧠 Tech Stack
 
-Frontend: React.js, Next.js, Tailwind CSS, JavaScript
-Mobile: React Native
-Backend: Node.js, Express.js, PHP, Java
-Databases: MongoDB, MySQL, Oracle
+**Frontend:**
+React.js, Next.js, Tailwind CSS, JavaScript
+
+**Mobile:**
+React Native
+
+**Backend:**
+Node.js, Express.js, PHP, Java
+
+**Databases:**
+MongoDB, MySQL, Oracle
 
 **Tools & Platforms:**
 Git, GitHub, Postman, REST APIs, Cloud Deployment, Railway

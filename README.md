@@ -20,7 +20,7 @@ Also i'm Certified React Developer
 
 **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript
 **Mobile:** React Native
-**Backend:** Node.js, Express.js, PHP
+**Backend:** Node.js, Express.js, PHP , java
 **Databases:** MongoDB, MySQL, Oracle
 
 **Tools & Platforms:**

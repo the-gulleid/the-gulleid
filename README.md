@@ -18,10 +18,10 @@ Also i'm Certified React Developer
 
 ## 🧠 Tech Stack
 
-**Frontend:** React.js, Next.js, Tailwind CSS, JavaScript
-**Mobile:** React Native
-**Backend:** Node.js, Express.js, PHP , java
-**Databases:** MongoDB, MySQL, Oracle
+**Frontend:** React.js, Next.js, Tailwind CSS, JavaScript.
+**Mobile:** React Native .
+**Backend:** Node.js, Express.js, PHP , java.
+**Databases:** MongoDB, MySQL, Oracle.
 
 **Tools & Platforms:**
 Git, GitHub, Postman, REST APIs, Cloud Deployment, Railway

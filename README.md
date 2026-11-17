@@ -58,6 +58,7 @@ My professional experience includes collaborating with development teams and con
 
 ## 💼 Professional Experience
 
+**Software Development & Engineering**
 - Full-Stack Web & Mobile Application Development
 - Backend API Development and Integration
 - ERP and POS Application Development
@@ -66,7 +67,11 @@ My professional experience includes collaborating with development teams and con
 - Technical Support and Application Maintenance
 - Team Collaboration and Software Development
 
----
+**Teaching & Training Experience**
+- Full-Stack Web Development Instructor — TLS Academy
+- Full-Stack Development & Database Instructor — SRC Pre-University College
+- Teaching practical programming, frontend and backend development, and database management
+- Mentoring students through hands-on projects and real-world development practices
 
 ## 🚀 What I'm Currently Learning
 

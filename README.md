@@ -1,50 +1,95 @@
 # 👋 Hi, I'm Gulleid Mohamed
 
-**Full Stack & Mobile App Developer**
+**Full-Stack Web & Mobile App Developer | Certified React Developer**
+
 📍 Based in Somaliland
 
-I build modern web applications, mobile apps, and scalable APIs.
+I develop modern web applications, cross-platform mobile apps, and scalable backend APIs, focusing on performance, usability, and solving real-world business challenges.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer focused on building efficient, scalable, and user-friendly applications.
-I enjoy solving real-world problems through code and continuously improving my skills across both frontend and backend technologies.
+I'm a passionate **Full-Stack Web & Mobile App Developer** with professional experience in software development, application development, and technical support.
 
-Also I'M Certified React Developer
+I have hands-on experience designing, developing, and maintaining real-world web and mobile applications, building RESTful APIs, managing databases, and delivering reliable, user-friendly software solutions.
+
+My professional experience includes collaborating with development teams and contributing to business applications, ERP systems, school management systems, POS solutions, and mobile applications.
+
+🏆 **Certified React Developer**, passionate about technology, continuous learning, and building efficient, scalable software solutions.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-**Frontend:**
-React.js, Next.js, Tailwind CSS, JavaScript
+**Frontend Development:**
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Laravel Blade
 
-**Mobile:**
-React Native
+**Mobile App Development:**
+- React Native
+- Flutter
+- Dart
 
-**Backend:**
-Node.js, Express.js, PHP, Java
+**Backend Development:**
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- Java
 
 **Databases:**
-MongoDB, MySQL, Oracle
+- MySQL
+- MongoDB
+- Oracle Database
 
-**Tools & Platforms:**
-Git, GitHub, Postman, REST APIs, Cloud Deployment, Railway
+**Tools & Technologies:**
+- Git & GitHub
+- Postman
+- RESTful APIs
+- Docker
+- Cloud Deployment
+- Railway
+
+---
+
+## 💼 Professional Experience
+
+- Full-Stack Web & Mobile Application Development
+- Backend API Development and Integration
+- ERP and POS Application Development
+- School Management System Development
+- Database Design and Management
+- Technical Support and Application Maintenance
+- Team Collaboration and Software Development
 
 ---
 
 ## 🚀 What I'm Currently Learning
 
-* Advanced backend architecture and API design
-* Performance optimization in React & React Native
-* Building scalable full-stack applications
+- Advanced Backend Engineering and API Architecture
+- DevOps and Cloud Infrastructure
+- Database Administration and Optimization
+- React & React Native Performance Optimization
+- Scalable System Design and Software Architecture
+
+---
+
+## 🏆 Certifications
+
+- Certified React Developer
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [guleidmaxamed77@gmail.com]
-🔗 LinkedIn: https://linkedin.com/in/guuleed-mohamed
-💻 GitHub: https://github.com/the-gulleid
+- 📧 **Email:** guleidmaxamed77@gmail.com
+- 🔗 **LinkedIn:** [Gulleid Mohamed](https://linkedin.com/in/guuleed-mohamed)
+- 💻 **GitHub:** [the-gulleid](https://github.com/the-gulleid)
+
+---
+
+⭐ *Passionate about technology, committed to innovation, and always building better solutions.*
